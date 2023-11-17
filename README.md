@@ -1,4 +1,4 @@
-# Uber-Data-Analysis-Alfido-Tech
+# Uber-Data-Analysis-Alfido-Tech-Internship-Task-2
 
   This project involves exploration of the Uber Dataset using R and various data manipulation and visualization packages. The initial focus is on data preprocessing, where the dataset is loaded from a CSV file, and measures are taken to handle missing and inconsistent data. This includes replacing empty strings with NA values, converting date and time columns to datetime objects, removing duplicates, and standardizing location names.
 
