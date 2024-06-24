@@ -1,7 +1,15 @@
-# Uber-Data-Analysis-Alfido-Tech-Internship-Task-2
+# Uber-Data-Analysis
 
-  This project involves exploration of the Uber Dataset using R and various data manipulation and visualization packages. The initial focus is on data preprocessing, where the dataset is loaded from a CSV file, and measures are taken to handle missing and inconsistent data. This includes replacing empty strings with NA values, converting date and time columns to datetime objects, removing duplicates, and standardizing location names.
+***Overview:***
+Conducted an in-depth analysis of the Uber Dataset using R, focusing on data preprocessing, exploration, and visualization to derive actionable insights.
 
-  After data preprocessing, the project proceeds to understand the dataset's structure and dimensions, offering a summary of the "MILES" column to provide an overview of trip distances. The heart of the project lies in data visualization, with a series of compelling visualizations. These visualizations include a boxplot and histogram of trip distances, a bar plot displaying the count of Uber trips by purpose, and bar plots showing the top 10 start and stop locations by frequency.
+***Key Steps:***
 
-  Furthermore, the project features bar plots to visualize the average miles by category and purpose, allowing for an in-depth exploration of how trip distances vary based on different categories and purposes. This approach to data analysis and visualization provides valuable insights into the Uber Dataset, making it an essential resource for decision-making, optimization, and understanding user behavior within the Uber platform.
+**Data Preprocessing:** Loaded dataset from CSV, handled missing/inconsistent data, converted date/time columns, removed duplicates, and standardized location names.
+**Data Exploration:** Summarized trip distances using the "MILES" column.
+**Data Visualization:** Created boxplots and histograms of trip distances, bar plots for trip purposes, and top 10 start/stop locations by frequency. Visualized average miles by category and purpose.
+
+***Skills Used:*** R, Data Preprocessing, Data Manipulation, Data Visualization, ggplot2, dplyr
+
+***Conclusion:***
+This project provides valuable insights into trip patterns and user behaviour within the Uber platform, supporting decision-making and optimization efforts.
